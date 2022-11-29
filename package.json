@@ -1,0 +1,23 @@
+{
+  "name": "wintercss",
+  "version": "0.0.1",
+  "description": "A simple css framework",
+  "main": "winter.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winterTechnologies/css.git"
+  },
+  "keywords": [
+    "css",
+    "framework"
+  ],
+  "author": "winterTechnologies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winterTechnologies/css/issues"
+  },
+  "homepage": "https://github.com/winterTechnologies/css#readme"
+}
